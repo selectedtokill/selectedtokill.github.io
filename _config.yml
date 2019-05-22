@@ -1,9 +1,8 @@
-title: selectedtokill
-author: VO-KZ4'L
+title: dash
+author: GitHub User
 email: miguel-gonzalez@gmx.de
 description: > # this means to ignore newlines until "show_exerpts:"
-   Приветствуйте новых участников, делитесь опытом и поддерживайте общение!
-  А если вы новый участник, не забудьте представиться - мы ждём открытых к общению людей!
+  Жизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыыЖизнь которыуюыы
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 5
@@ -24,10 +23,10 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://vk.com/s2ktee
+    - url: https://twitter.com/bitbrain_
       icon: twitter-square
       color: cyan
-    - url: https://steamcommunity.com/groups/s2Ktee
+    - url: https://bitbrain.itch.io
       icon: itch-io
       color: red
     - url: https://github.com/bitbrain
@@ -35,7 +34,7 @@ dash:
       color: purple
 
 # Build settings
-theme: jekyll-theme-dash
+theme: jekyll-theme-cayman
 
 plugins:
  - jekyll-feed
